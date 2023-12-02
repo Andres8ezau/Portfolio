@@ -7,6 +7,8 @@
 <img align='rigth' src="https://github.com/Andres8ezau/Portfolio/blob/main/Symp_UNAM_2023_V1_page-0001.jpg" width="570" />
 
 ## Comunication Articles  
+<img align='rigth' src="https://github.com/Andres8ezau/Portfolio/blob/main/Screenshot 2023-12-01 200319.png" width="370" />
+
 
 ## Science Outreach 
 
