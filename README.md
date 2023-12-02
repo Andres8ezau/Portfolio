@@ -1,5 +1,5 @@
 # Portfolio
-<img align='right' src="https://github.com/Andres8ezau/Andres8ezau/blob/master/giphy.gif" width="250" />
+<img align='right' src="https://github.com/Andres8ezau/Portfolio/blob/main/ENLACE2022_M_A_Poster_final.pdf" width="350" />
 
 ## Scientific Posters 
 
