@@ -1,11 +1,15 @@
 # Portfolio
 ## Scientific Posters 
 
-<img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/Poster3F_VERANOSUG_2018.jpg" width="300" />
-<img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/RMFQT_2022_NEW_page-0001.jpg" width="330" />
-<img align='rigth' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/New_RMFQT_2023_VER2_page-0001.jpg" width="330" />
-<img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/ENLACE2022_M_A_Poster_final.pdf" width="350" />
-<img align='rigth' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/Symp_UNAM_2023_V1_page-0001.jpg" width="570" />
+<img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/Poster3F_VERANOSUG_2018-min.jpg" width="300" />
+<img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/RMFQT_2022_NEW_page-0001-min.jpg" width="330" />
+<img align='rigth' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/New_RMFQT_2023_VER2_page-0001-min.jpg" width="330" />
+<img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/ENLACE2022_M_A_Poster_final_page-0001-min.jpg" width="350" />
+<img align='rigth' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/Symp_UNAM_2023_V1_page-0001-min.jpg" width="570" />
+
+<!-- The following is a link instead of an image -->
+<!-- <a href="https://github.com/Andres8ezau/Portfolio/blob/main/images/ENLACE2022_M_A_Poster_final.pdf">View ENLACE2022 Poster (PDF)</a> -->
+
 
 ---
 
