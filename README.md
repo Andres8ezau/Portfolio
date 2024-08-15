@@ -10,11 +10,13 @@
 
 ---
 
-> ## Outreach Articles 
+> ## Science communication / Outreach Articles 
 > <!-- The following is a link instead of an image -->
->> <a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/SCIENCE-T-%202021_SEGURIDAD_EN_EL_LAB.pdf">1. Todos Somos Complices. Science-T. 2021, pp 41–43 | Safety culture in >> academia (PDF)</a> 
+>> <a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/Jovenes_En_Ciencia_ANDRES_ESAU_PEREZ_HERNANDEZ_4166-673-677.pdf">1. Jóvenes en la Ciencia, 4. (1), 2018. 2–6 | Synthesis of Ni, Co, Cu and Zn complexes with AcNac ligands (PDF)</a>
+>> 
+>> <a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/SCIENCE-T-%202021_SEGURIDAD_EN_EL_LAB.pdf">2. Todos Somos Complices. Science-T. 2021, pp 41–43 | Safety culture in  academia (PDF)</a> 
 >>
->> <a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/Queer_molecules_ESPIRAL_UG.pdf">2. "Las moléculas queer, flavonoides" Favor de Interrumpir 6th ed. 2022, pp 35–40 >> | Queer molecules, Flavonoids  (PDF)</a> 
+>> <a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/Queer_molecules_ESPIRAL_UG.pdf">3. "Las moléculas queer, flavonoides" Favor de Interrumpir 6th ed. 2022, pp 35–40 | Queer molecules, Flavonoids  (PDF)</a> 
 
 
 ---
