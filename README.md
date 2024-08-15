@@ -1,4 +1,5 @@
-# Portfolio
+# ***Portfolio***
+
 ## Scientific Posters 
 
 <img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/Poster3F_VERANOSUG_2018-min.jpg" width="300" />
@@ -7,9 +8,13 @@
 <img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/ENLACE2022_M_A_Poster_final_page-0001-min.jpg" width="350" />
 <img align='rigth' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/Symp_UNAM_2023_V1_page-0001-min.jpg" width="570" />
 
-## Outreach Articles 
-<!-- The following is a link instead of an image -->
-<a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/SCIENCE-T-%202021_SEGURIDAD_EN_EL_LAB.pdf">View Todos Somos Complices. Science-T. 2021, pp 41–43 | Safety culture in academia (PDF)</a> 
+---
+
+> ## Outreach Articles 
+> <!-- The following is a link instead of an image -->
+>> <a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/SCIENCE-T-%202021_SEGURIDAD_EN_EL_LAB.pdf">1. Todos Somos Complices. Science-T. 2021, pp 41–43 | Safety culture in >> academia (PDF)</a> 
+>>
+>> <a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/Queer_molecules_ESPIRAL_UG.pdf">2. "Las moléculas queer, flavonoides" Favor de Interrumpir 6th ed. 2022, pp 35–40 >> | Queer molecules, Flavonoids  (PDF)</a> 
 
 
 ---
