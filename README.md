@@ -7,8 +7,9 @@
 <img align='left' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/ENLACE2022_M_A_Poster_final_page-0001-min.jpg" width="350" />
 <img align='rigth' src="https://github.com/Andres8ezau/Portfolio/blob/main/images/Symp_UNAM_2023_V1_page-0001-min.jpg" width="570" />
 
+## Outreach Articles 
 <!-- The following is a link instead of an image -->
-<!-- <a href="https://github.com/Andres8ezau/Portfolio/blob/main/images/ENLACE2022_M_A_Poster_final.pdf">View ENLACE2022 Poster (PDF)</a> -->
+<a href="https://github.com/Andres8ezau/Portfolio/blob/main/articles/SCIENCE-T-%202021_SEGURIDAD_EN_EL_LAB.pdf">View Todos Somos Complices. Science-T. 2021, pp 41–43 | Safety culture in academia (PDF)</a> 
 
 
 ---
